@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/aagamrshah/aagams-wowchemy-blocks
 
 go 1.19
